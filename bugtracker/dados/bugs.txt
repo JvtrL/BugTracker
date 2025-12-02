@@ -1,0 +1,2 @@
+CRITICO;3;erro 404;nao carregou a pagina;ALTA;ABERTO;302861;Rafael mello;rafael.mello
+MENOR;4;erro 444;Pinto no cuzinho;BAIXA;EM_ANDAMENTO;228;joaquin;joaquindasilva@pablo.com
